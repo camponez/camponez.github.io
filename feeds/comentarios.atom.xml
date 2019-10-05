@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pensando - Comentários</title><link href="https://camponez.github.io/" rel="alternate"></link><link href="https://camponez.github.io/feeds/comentarios.atom.xml" rel="self"></link><id>https://camponez.github.io/</id><updated>2017-08-18T23:53:20-03:00</updated><entry><title>Comentar sem registrar</title><link href="https://camponez.github.io/2017-08/comentar-sem-registrar.html" rel="alternate"></link><published>2017-08-18T23:53:20-03:00</published><updated>2017-08-18T23:53:20-03:00</updated><author><name>Eduardo Elias</name></author><id>tag:camponez.github.io,2017-08-18:/2017-08/comentar-sem-registrar.html</id><content type="html">&lt;p&gt;Quem quiser comentar em qualquer post, não precisa se registrar. É só selecionar
+a opção &lt;em&gt;Prefiro publicar como visitante&lt;/em&gt;, preencher email e nome.&lt;/p&gt;
+&lt;div class="figure" style="width: 757px; height: auto;"&gt;
+&lt;img alt="Comentário" src="https://camponez.github.io/images/comentario.png" style="width: 757px; height: auto;"/&gt;
+&lt;/div&gt;
+</content><category term="sobre"></category></entry></feed>
